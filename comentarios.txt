@@ -1,0 +1,7 @@
+MODEL => É a representação de como um dado é salvo dentro da nossa aplicação, como o dado é composto dentro da aplicação, quais seus campos.
+
+REPOSITÓRIOS => Como vamos trabalhar com esses dados, vai listar, vai criar, vai deletar, vai criar.
+
+SERVICE => Vai armazenar a regra de negócio da aplicação.Sempre tem uma unica e excluiva funcionalidade
+
+ROTA => Receber a requisição, chamar outro arquivo, devolver uma resposta 
